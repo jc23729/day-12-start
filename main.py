@@ -26,3 +26,6 @@ def drink_potion():
   print(player_health)
 
 drink_potion()
+
+
+##This is a concept of namespace, scope applies to anything you name. 
